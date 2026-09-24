@@ -1,0 +1,14 @@
+.env
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+db.sqlite3
+staticfiles/
+*.log
+.pytest_cache/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
